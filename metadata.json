@@ -1,0 +1,6 @@
+{
+  "name": "Dược Liệu Study - Hệ Thống Học Thông Minh Thực Hành Dược Liệu",
+  "description": "Nền tảng học thông minh thực hành dược liệu: cơ sở dữ liệu cây thuốc, flashcard tương tác 3D, bài tập điền khuyết và trắc nghiệm dược khoa chuẩn hóa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
